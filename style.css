@@ -11,10 +11,10 @@ font-size: 20px
 }
 .kalkul{
 display: inline-block;
-color: rgb(36, 87, 189);
 font-size: 20px
 }
 #kalkul{
 margin-left: 100px;
-font-size: 20px
+font-size: 20px;
+color: rgb(36, 87, 189)
 }
