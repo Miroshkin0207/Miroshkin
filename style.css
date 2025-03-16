@@ -1,0 +1,27 @@
+body{
+background-color:rgb(26, 26, 29)
+}
+div{
+color: white;
+font-size: 20px
+}
+.ssilki{
+color: rgb(36, 87, 189);
+font-size: 20px
+}
+.kalkul{
+display: inline-block;
+font-size: 20px
+}
+#kalkul{
+margin-left: 100px;
+font-size: 20px;
+color: rgb(36, 87, 189);
+}
+.istoria{
+display: inline-block;
+font-size: 20px
+}
+#istoria{
+margin-left: 100px
+}
